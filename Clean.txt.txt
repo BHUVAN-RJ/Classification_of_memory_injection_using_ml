@@ -1,0 +1,3458 @@
+Process Name: 010Editor
+Process ID: 8496
+Memory Usage (MB): 3.078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ApplicationFrameHost
+Process ID: 7680
+Memory Usage (MB): 7.67578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: audiodg
+Process ID: 2468
+Memory Usage (MB): 9.41796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 196
+Memory Usage (MB): 22.96484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 1988
+Memory Usage (MB): 23.3125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 2988
+Memory Usage (MB): 8.59375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3148
+Memory Usage (MB): 83.82421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3180
+Memory Usage (MB): 14.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3268
+Memory Usage (MB): 24.02734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3428
+Memory Usage (MB): 148.60546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3468
+Memory Usage (MB): 19.04296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3488
+Memory Usage (MB): 21.1953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3532
+Memory Usage (MB): 24.296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4220
+Memory Usage (MB): 41.546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4544
+Memory Usage (MB): 42.67578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4960
+Memory Usage (MB): 89.50390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5448
+Memory Usage (MB): 18.7421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5460
+Memory Usage (MB): 68.9375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5592
+Memory Usage (MB): 118.1328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6048
+Memory Usage (MB): 31.44921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6080
+Memory Usage (MB): 16.6328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6156
+Memory Usage (MB): 16.1171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6468
+Memory Usage (MB): 16.84375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6568
+Memory Usage (MB): 17.16015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6812
+Memory Usage (MB): 81.44921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6856
+Memory Usage (MB): 24.16796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6880
+Memory Usage (MB): 201.828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7068
+Memory Usage (MB): 21.25
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7488
+Memory Usage (MB): 18.078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7780
+Memory Usage (MB): 36.67578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7792
+Memory Usage (MB): 19.5703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8776
+Memory Usage (MB): 17.7421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8840
+Memory Usage (MB): 34.3828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8904
+Memory Usage (MB): 15.8515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8952
+Memory Usage (MB): 14.421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8968
+Memory Usage (MB): 22.72265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8976
+Memory Usage (MB): 13.1875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 9072
+Memory Usage (MB): 19.33203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: cmd
+Process ID: 6860
+Memory Usage (MB): 3.2890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 456
+Memory Usage (MB): 0.8515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 8444
+Memory Usage (MB): 18.44921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: csrss
+Process ID: 464
+Memory Usage (MB): 4.37109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: csrss
+Process ID: 548
+Memory Usage (MB): 4.8828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ctfmon
+Process ID: 3744
+Memory Usage (MB): 17.4921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dllhost
+Process ID: 5444
+Memory Usage (MB): 7.13671875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dllhost
+Process ID: 6544
+Memory Usage (MB): 11.68359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dwm
+Process ID: 400
+Memory Usage (MB): 59.76953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: explorer
+Process ID: 4072
+Memory Usage (MB): 88.59765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: fontdrvhost
+Process ID: 824
+Memory Usage (MB): 2.359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: fontdrvhost
+Process ID: 832
+Memory Usage (MB): 6.8984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: GoogleCrashHandler
+Process ID: 3724
+Memory Usage (MB): 1.08203125
+Loaded DLLs: C:\Program Files (x86)\Google\Update\1.3.36.242\GoogleCrashHandler.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\USER32.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\gdi32full.dll C:\Windows\System32\msvcp_win.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\ADVAPI32.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\sechost.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\ole32.dll C:\Windows\System32\combase.dll C:\Windows\System32\SHELL32.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\SYSTEM32\NETAPI32.dll C:\Windows\SYSTEM32\USERENV.dll C:\Windows\SYSTEM32\VERSION.dll C:\Windows\SYSTEM32\NETUTILS.DLL C:\Windows\SYSTEM32\WKSCLI.DLL C:\Windows\SYSTEM32\windows.storage.dll C:\Windows\SYSTEM32\Wldp.dll C:\Windows\System32\SHCORE.dll C:\Windows\SYSTEM32\DSREG.DLL C:\Windows\System32\OLEAUT32.dll C:\Windows\SYSTEM32\msvcp110_win.dll C:\Windows\SYSTEM32\cryptsp.dll C:\Windows\System32\CRYPT32.dll C:\Windows\SYSTEM32\profapi.dll C:\Windows\SYSTEM32\cscapi.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\SYSTEM32\dbghelp.dll C:\Windows\SYSTEM32\dbgcore.DLL C:\Windows\System32\bcryptPrimitives.dll
+Injection Technique: False
+
+--------------------------
+Process Name: GoogleCrashHandler64
+Process ID: 3812
+Memory Usage (MB): 0.12109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Idle
+Process ID: 0
+Memory Usage (MB): 0.0078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: lsass
+Process ID: 692
+Memory Usage (MB): 14.7734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Memory Compression
+Process ID: 1804
+Memory Usage (MB): 77.16015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: MoUsoCoreWorker
+Process ID: 4196
+Memory Usage (MB): 13.375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 1456
+Memory Usage (MB): 16.5859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 2192
+Memory Usage (MB): 21.10546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 3940
+Memory Usage (MB): 1.7578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 6000
+Memory Usage (MB): 99.6171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 6044
+Memory Usage (MB): 7.53515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 7912
+Memory Usage (MB): 4.93359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 7984
+Memory Usage (MB): 56.09765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 8016
+Memory Usage (MB): 7.203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 8188
+Memory Usage (MB): 6.984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: MsMpEng
+Process ID: 6480
+Memory Usage (MB): 158.7421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: NisSrv
+Process ID: 556
+Memory Usage (MB): 10.37890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 2140
+Memory Usage (MB): 13.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 6528
+Memory Usage (MB): 8.6484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: OneDrive
+Process ID: 6224
+Memory Usage (MB): 12.484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: powershell
+Process ID: 7764
+Memory Usage (MB): 61.53515625
+Loaded DLLs: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\OLEAUT32.dll C:\Windows\System32\msvcp_win.dll C:\Windows\SYSTEM32\ATL.DLL C:\Windows\System32\USER32.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\combase.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\gdi32full.dll C:\Windows\System32\ADVAPI32.dll C:\Windows\System32\sechost.dll C:\Windows\System32\OLE32.dll C:\Windows\SYSTEM32\mscoree.dll C:\Windows\System32\IMM32.DLL C:\Windows\SYSTEM32\kernel.appcore.dll C:\Windows\System32\bcryptPrimitives.dll C:\Windows\system32\uxtheme.dll C:\Windows\System32\clbcatq.dll C:\Windows\system32\windows.storage.dll C:\Windows\system32\Wldp.dll C:\Windows\System32\SHCORE.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\system32\PROPSYS.dll C:\Windows\System32\shell32.dll C:\Windows\System32\LINKINFO.dll C:\Windows\System32\CFGMGR32.dll C:\Windows\system32\profapi.dll C:\Windows\System32\ntshrui.dll C:\Windows\System32\SspiCli.dll C:\Windows\System32\srvcli.dll C:\Windows\SYSTEM32\cscapi.dll C:\Windows\SYSTEM32\policymanager.dll C:\Windows\system32\msvcp110_win.dll C:\Windows\System32\bcrypt.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll C:\Windows\SYSTEM32\VERSION.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll C:\Windows\SYSTEM32\VCRUNTIME140_CLR0400.dll C:\Windows\SYSTEM32\ucrtbase_clr0400.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\a403a0b75e95c07da2caa7f780446a62\mscorlib.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System\920e3d1d70447c3c10e69e6df0766568\System.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\45a9a2a2deda365165595326f2f13be6\System.Core.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pb378ec07#\8f71fecf3629f0e75cd4709cbc9b82fe\Microsoft.PowerShell.ConsoleHost.ni.dll C:\Windows\SYSTEM32\CRYPTSP.dll C:\Windows\system32\rsaenh.dll C:\Windows\SYSTEM32\CRYPTBASE.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Manaa57fc8cc#\be67edb7bc076e2b7ee9f65254f925a6\System.Management.Automation.ni.dll C:\Windows\System32\psapi.dll C:\Windows\System32\wintrust.dll C:\Windows\System32\CRYPT32.dll C:\Windows\SYSTEM32\MSASN1.dll C:\Windows\SYSTEM32\amsi.dll C:\Windows\SYSTEM32\USERENV.dll C:\Windows\SYSTEM32\gpapi.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\bf1f4d743828bbf720baf57f6a37ce02\System.Configuration.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\2062ed810929ec0e33254c02b0c61bb4\System.Xml.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data\3da56a474ce100ea2538c514ba35d0cc\System.Data.ni.dll C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll C:\Windows\System32\WS2_32.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Management\96012833bebd5f21714fc508603cda97\System.Management.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Dired13b18a9#\767e999045a62f3cde3ae79cf78dd4c4\System.DirectoryServices.ni.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P6f792626#\6829f5eaeb4bad5fdabeaf59f4df3318\Microsoft.PowerShell.Security.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Transactions\e866c0216a4ad45c5b16d8bd70bd92c7\System.Transactions.ni.dll C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Numerics\d06877b5a0df441a8dc4c7b8d95b5d41\System.Numerics.ni.dll C:\Windows\SYSTEM32\secur32.dll C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23050.5-0\X86\MpOav.dll C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23050.5-0\X86\MPCLIENT.DLL C:\Windows\SYSTEM32\urlmon.dll C:\Windows\SYSTEM32\netutils.dll C:\Windows\SYSTEM32\iertutil.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.CSharp\d68989a4b7d85ed434306506194834aa\Microsoft.CSharp.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Confe64a9051#\48ee4ec9441351bbe4d9095c96b8ea01\System.Configuration.Install.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pae3498d9#\4db5145f971c0be7f303c5b19bfe8e9f\Microsoft.PowerShell.Commands.Management.ni.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll C:\Windows\SYSTEM32\iphlpapi.dll C:\Windows\SYSTEM32\DNSAPI.dll C:\Windows\System32\NSI.dll C:\Windows\SYSTEM32\dhcpcsvc6.DLL C:\Windows\SYSTEM32\dhcpcsvc.DLL C:\Windows\SYSTEM32\WINNSI.DLL C:\Windows\System32\MSISIP.DLL C:\Windows\System32\wshext.dll C:\Windows\System32\AppxSip.dll C:\Windows\SYSTEM32\OpcServices.DLL C:\Windows\System32\WindowsPowerShell\v1.0\pwrshsip.dll
+Injection Technique: False
+
+--------------------------
+Process Name: Registry
+Process ID: 100
+Memory Usage (MB): 32.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 4204
+Memory Usage (MB): 5.78515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 4616
+Memory Usage (MB): 23.21875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 6060
+Memory Usage (MB): 15.55078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 7632
+Memory Usage (MB): 15.7890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchApp
+Process ID: 4400
+Memory Usage (MB): 37.21875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchFilterHost
+Process ID: 5132
+Memory Usage (MB): 9.359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchIndexer
+Process ID: 4512
+Memory Usage (MB): 23.58203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchProtocolHost
+Process ID: 1884
+Memory Usage (MB): 10.74609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchProtocolHost
+Process ID: 7060
+Memory Usage (MB): 7.265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SecurityHealthService
+Process ID: 452
+Memory Usage (MB): 11.77734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SecurityHealthSystray
+Process ID: 1992
+Memory Usage (MB): 8.8984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: services
+Process ID: 684
+Memory Usage (MB): 6.87109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SgrmBroker
+Process ID: 3076
+Memory Usage (MB): 7.25
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ShellExperienceHost
+Process ID: 4132
+Memory Usage (MB): 2.2265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: sihost
+Process ID: 3456
+Memory Usage (MB): 11.015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: smss
+Process ID: 368
+Memory Usage (MB): 0.84765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: spoolsv
+Process ID: 2084
+Memory Usage (MB): 10.3125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: StartMenuExperienceHost
+Process ID: 3156
+Memory Usage (MB): 32.03515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 484
+Memory Usage (MB): 9.6328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 816
+Memory Usage (MB): 12.80078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 844
+Memory Usage (MB): 9.50390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 928
+Memory Usage (MB): 51.2890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 936
+Memory Usage (MB): 13.078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1044
+Memory Usage (MB): 5.609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1076
+Memory Usage (MB): 11.87109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1080
+Memory Usage (MB): 16.453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1144
+Memory Usage (MB): 7.84375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1152
+Memory Usage (MB): 63.6796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1296
+Memory Usage (MB): 8.828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1420
+Memory Usage (MB): 16.1953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1636
+Memory Usage (MB): 14.16796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1712
+Memory Usage (MB): 9.8984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1872
+Memory Usage (MB): 9.62890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1960
+Memory Usage (MB): 12.12890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2160
+Memory Usage (MB): 14.3046875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2360
+Memory Usage (MB): 6.48046875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2404
+Memory Usage (MB): 14.15234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2424
+Memory Usage (MB): 6.9921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 3320
+Memory Usage (MB): 21.140625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 3472
+Memory Usage (MB): 19.12890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5280
+Memory Usage (MB): 2.44921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5288
+Memory Usage (MB): 10.80078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5684
+Memory Usage (MB): 6.51953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: System
+Process ID: 4
+Memory Usage (MB): 0.1328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SystemSettings
+Process ID: 7464
+Memory Usage (MB): 1.39453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: taskhostw
+Process ID: 3572
+Memory Usage (MB): 16.3828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: TextInputHost
+Process ID: 4048
+Memory Usage (MB): 7.90625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: uhssvc
+Process ID: 6844
+Memory Usage (MB): 5.81640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: VBoxService
+Process ID: 1640
+Memory Usage (MB): 5.9375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: VBoxTray
+Process ID: 6148
+Memory Usage (MB): 9.9453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: wininit
+Process ID: 540
+Memory Usage (MB): 5.83984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: winlogon
+Process ID: 636
+Memory Usage (MB): 9.01171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: wlms
+Process ID: 2528
+Memory Usage (MB): 3.06640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: WmiPrvSE
+Process ID: 1396
+Memory Usage (MB): 9.265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: WmiPrvSE
+Process ID: 6112
+Memory Usage (MB): 8.80859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: 010Editor
+Process ID: 8496
+Memory Usage (MB): 3.078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ApplicationFrameHost
+Process ID: 7680
+Memory Usage (MB): 7.67578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: audiodg
+Process ID: 2468
+Memory Usage (MB): 9.41796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 196
+Memory Usage (MB): 22.96484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 1988
+Memory Usage (MB): 23.3125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 2988
+Memory Usage (MB): 8.59375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3148
+Memory Usage (MB): 82.41015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3180
+Memory Usage (MB): 14.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3268
+Memory Usage (MB): 24.02734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3428
+Memory Usage (MB): 148.55078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3468
+Memory Usage (MB): 19.04296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3488
+Memory Usage (MB): 21.1953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3532
+Memory Usage (MB): 24.296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4220
+Memory Usage (MB): 41.546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4544
+Memory Usage (MB): 42.67578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4960
+Memory Usage (MB): 88.1953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5448
+Memory Usage (MB): 18.7421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5460
+Memory Usage (MB): 68.9375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5592
+Memory Usage (MB): 118.11328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6048
+Memory Usage (MB): 31.421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6080
+Memory Usage (MB): 16.6328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6156
+Memory Usage (MB): 16.1171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6468
+Memory Usage (MB): 16.84375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6568
+Memory Usage (MB): 17.16015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6812
+Memory Usage (MB): 81.44921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6856
+Memory Usage (MB): 24.16796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6880
+Memory Usage (MB): 201.828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7068
+Memory Usage (MB): 21.25
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7488
+Memory Usage (MB): 18.078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7780
+Memory Usage (MB): 36.67578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7792
+Memory Usage (MB): 19.5703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8776
+Memory Usage (MB): 17.7421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8840
+Memory Usage (MB): 34.3828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8904
+Memory Usage (MB): 15.8515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8952
+Memory Usage (MB): 14.421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8968
+Memory Usage (MB): 22.72265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8976
+Memory Usage (MB): 13.1875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 9072
+Memory Usage (MB): 19.33203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: cmd
+Process ID: 6860
+Memory Usage (MB): 3.2890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 456
+Memory Usage (MB): 0.8515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 8444
+Memory Usage (MB): 18.46484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: csrss
+Process ID: 464
+Memory Usage (MB): 4.37109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: csrss
+Process ID: 548
+Memory Usage (MB): 4.8828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ctfmon
+Process ID: 3744
+Memory Usage (MB): 17.4921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dllhost
+Process ID: 648
+Memory Usage (MB): 7.13671875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dllhost
+Process ID: 6544
+Memory Usage (MB): 11.68359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dwm
+Process ID: 400
+Memory Usage (MB): 59.921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: explorer
+Process ID: 4072
+Memory Usage (MB): 88.8828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: fontdrvhost
+Process ID: 824
+Memory Usage (MB): 2.359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: fontdrvhost
+Process ID: 832
+Memory Usage (MB): 6.8984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: GoogleCrashHandler
+Process ID: 3724
+Memory Usage (MB): 1.0234375
+Loaded DLLs: C:\Program Files (x86)\Google\Update\1.3.36.242\GoogleCrashHandler.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\USER32.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\gdi32full.dll C:\Windows\System32\msvcp_win.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\ADVAPI32.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\sechost.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\ole32.dll C:\Windows\System32\combase.dll C:\Windows\System32\SHELL32.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\SYSTEM32\NETAPI32.dll C:\Windows\SYSTEM32\USERENV.dll C:\Windows\SYSTEM32\VERSION.dll C:\Windows\SYSTEM32\NETUTILS.DLL C:\Windows\SYSTEM32\WKSCLI.DLL C:\Windows\SYSTEM32\windows.storage.dll C:\Windows\SYSTEM32\Wldp.dll C:\Windows\System32\SHCORE.dll C:\Windows\SYSTEM32\DSREG.DLL C:\Windows\System32\OLEAUT32.dll C:\Windows\SYSTEM32\msvcp110_win.dll C:\Windows\SYSTEM32\cryptsp.dll C:\Windows\System32\CRYPT32.dll C:\Windows\SYSTEM32\profapi.dll C:\Windows\SYSTEM32\cscapi.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\SYSTEM32\dbghelp.dll C:\Windows\SYSTEM32\dbgcore.DLL C:\Windows\System32\bcryptPrimitives.dll
+Injection Technique: False
+
+--------------------------
+Process Name: GoogleCrashHandler64
+Process ID: 3812
+Memory Usage (MB): 0.12109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Idle
+Process ID: 0
+Memory Usage (MB): 0.0078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: lsass
+Process ID: 692
+Memory Usage (MB): 14.7734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Memory Compression
+Process ID: 1804
+Memory Usage (MB): 77.69921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: MoUsoCoreWorker
+Process ID: 4196
+Memory Usage (MB): 13.375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 1456
+Memory Usage (MB): 16.5859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 2192
+Memory Usage (MB): 21.10546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 3940
+Memory Usage (MB): 1.7578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 6000
+Memory Usage (MB): 99.6171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 6044
+Memory Usage (MB): 7.53515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 7912
+Memory Usage (MB): 4.921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 7984
+Memory Usage (MB): 56.12109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 8016
+Memory Usage (MB): 7.203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 8188
+Memory Usage (MB): 6.984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: MsMpEng
+Process ID: 6480
+Memory Usage (MB): 160.89453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: NisSrv
+Process ID: 556
+Memory Usage (MB): 10.3671875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 2140
+Memory Usage (MB): 13.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 6528
+Memory Usage (MB): 8.6328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: OneDrive
+Process ID: 6224
+Memory Usage (MB): 12.5234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: powershell
+Process ID: 7764
+Memory Usage (MB): 61.390625
+Loaded DLLs: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\OLEAUT32.dll C:\Windows\System32\msvcp_win.dll C:\Windows\SYSTEM32\ATL.DLL C:\Windows\System32\USER32.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\combase.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\gdi32full.dll C:\Windows\System32\ADVAPI32.dll C:\Windows\System32\sechost.dll C:\Windows\System32\OLE32.dll C:\Windows\SYSTEM32\mscoree.dll C:\Windows\System32\IMM32.DLL C:\Windows\SYSTEM32\kernel.appcore.dll C:\Windows\System32\bcryptPrimitives.dll C:\Windows\system32\uxtheme.dll C:\Windows\System32\clbcatq.dll C:\Windows\system32\windows.storage.dll C:\Windows\system32\Wldp.dll C:\Windows\System32\SHCORE.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\system32\PROPSYS.dll C:\Windows\System32\shell32.dll C:\Windows\System32\LINKINFO.dll C:\Windows\System32\CFGMGR32.dll C:\Windows\system32\profapi.dll C:\Windows\System32\ntshrui.dll C:\Windows\System32\SspiCli.dll C:\Windows\System32\srvcli.dll C:\Windows\SYSTEM32\cscapi.dll C:\Windows\SYSTEM32\policymanager.dll C:\Windows\system32\msvcp110_win.dll C:\Windows\System32\bcrypt.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll C:\Windows\SYSTEM32\VERSION.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll C:\Windows\SYSTEM32\VCRUNTIME140_CLR0400.dll C:\Windows\SYSTEM32\ucrtbase_clr0400.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\a403a0b75e95c07da2caa7f780446a62\mscorlib.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System\920e3d1d70447c3c10e69e6df0766568\System.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\45a9a2a2deda365165595326f2f13be6\System.Core.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pb378ec07#\8f71fecf3629f0e75cd4709cbc9b82fe\Microsoft.PowerShell.ConsoleHost.ni.dll C:\Windows\SYSTEM32\CRYPTSP.dll C:\Windows\system32\rsaenh.dll C:\Windows\SYSTEM32\CRYPTBASE.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Manaa57fc8cc#\be67edb7bc076e2b7ee9f65254f925a6\System.Management.Automation.ni.dll C:\Windows\System32\psapi.dll C:\Windows\System32\wintrust.dll C:\Windows\System32\CRYPT32.dll C:\Windows\SYSTEM32\MSASN1.dll C:\Windows\SYSTEM32\amsi.dll C:\Windows\SYSTEM32\USERENV.dll C:\Windows\SYSTEM32\gpapi.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\bf1f4d743828bbf720baf57f6a37ce02\System.Configuration.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\2062ed810929ec0e33254c02b0c61bb4\System.Xml.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data\3da56a474ce100ea2538c514ba35d0cc\System.Data.ni.dll C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll C:\Windows\System32\WS2_32.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Management\96012833bebd5f21714fc508603cda97\System.Management.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Dired13b18a9#\767e999045a62f3cde3ae79cf78dd4c4\System.DirectoryServices.ni.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P6f792626#\6829f5eaeb4bad5fdabeaf59f4df3318\Microsoft.PowerShell.Security.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Transactions\e866c0216a4ad45c5b16d8bd70bd92c7\System.Transactions.ni.dll C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Numerics\d06877b5a0df441a8dc4c7b8d95b5d41\System.Numerics.ni.dll C:\Windows\SYSTEM32\secur32.dll C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23050.5-0\X86\MpOav.dll C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23050.5-0\X86\MPCLIENT.DLL C:\Windows\SYSTEM32\urlmon.dll C:\Windows\SYSTEM32\netutils.dll C:\Windows\SYSTEM32\iertutil.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.CSharp\d68989a4b7d85ed434306506194834aa\Microsoft.CSharp.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Confe64a9051#\48ee4ec9441351bbe4d9095c96b8ea01\System.Configuration.Install.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pae3498d9#\4db5145f971c0be7f303c5b19bfe8e9f\Microsoft.PowerShell.Commands.Management.ni.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll C:\Windows\SYSTEM32\iphlpapi.dll C:\Windows\SYSTEM32\DNSAPI.dll C:\Windows\System32\NSI.dll C:\Windows\SYSTEM32\dhcpcsvc6.DLL C:\Windows\SYSTEM32\dhcpcsvc.DLL C:\Windows\SYSTEM32\WINNSI.DLL C:\Windows\System32\MSISIP.DLL C:\Windows\System32\wshext.dll C:\Windows\System32\AppxSip.dll C:\Windows\SYSTEM32\OpcServices.DLL C:\Windows\System32\WindowsPowerShell\v1.0\pwrshsip.dll
+Injection Technique: False
+
+--------------------------
+Process Name: Registry
+Process ID: 100
+Memory Usage (MB): 32.33984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 4204
+Memory Usage (MB): 5.78515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 4616
+Memory Usage (MB): 23.20703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 6060
+Memory Usage (MB): 15.5703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 7632
+Memory Usage (MB): 15.7890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchApp
+Process ID: 4400
+Memory Usage (MB): 37.21875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchFilterHost
+Process ID: 5132
+Memory Usage (MB): 9.65234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchIndexer
+Process ID: 4512
+Memory Usage (MB): 24.3203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchProtocolHost
+Process ID: 1884
+Memory Usage (MB): 10.421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchProtocolHost
+Process ID: 7060
+Memory Usage (MB): 7.21875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SecurityHealthService
+Process ID: 452
+Memory Usage (MB): 11.54296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SecurityHealthSystray
+Process ID: 1992
+Memory Usage (MB): 8.92578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: services
+Process ID: 684
+Memory Usage (MB): 6.8828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SgrmBroker
+Process ID: 3076
+Memory Usage (MB): 7.25
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ShellExperienceHost
+Process ID: 4132
+Memory Usage (MB): 2.2265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: sihost
+Process ID: 3456
+Memory Usage (MB): 11.015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: smss
+Process ID: 368
+Memory Usage (MB): 0.84765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: spoolsv
+Process ID: 2084
+Memory Usage (MB): 10.3125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: StartMenuExperienceHost
+Process ID: 3156
+Memory Usage (MB): 32.0234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 484
+Memory Usage (MB): 9.6328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 816
+Memory Usage (MB): 12.83984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 844
+Memory Usage (MB): 9.5078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 928
+Memory Usage (MB): 51.328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 936
+Memory Usage (MB): 13.078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1044
+Memory Usage (MB): 5.609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1076
+Memory Usage (MB): 12.00390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1080
+Memory Usage (MB): 16.90234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1144
+Memory Usage (MB): 7.84375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1152
+Memory Usage (MB): 51.24609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1296
+Memory Usage (MB): 8.81640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1420
+Memory Usage (MB): 16.1953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1636
+Memory Usage (MB): 14.16796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1712
+Memory Usage (MB): 9.8984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1872
+Memory Usage (MB): 9.62890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1960
+Memory Usage (MB): 12.12890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2160
+Memory Usage (MB): 14.31640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2360
+Memory Usage (MB): 6.48046875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2404
+Memory Usage (MB): 14.12890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2424
+Memory Usage (MB): 6.9921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 3320
+Memory Usage (MB): 21.140625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 3472
+Memory Usage (MB): 19.17578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5280
+Memory Usage (MB): 2.44921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5288
+Memory Usage (MB): 10.76171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5684
+Memory Usage (MB): 6.51953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: System
+Process ID: 4
+Memory Usage (MB): 0.1328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SystemSettings
+Process ID: 7464
+Memory Usage (MB): 1.39453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: taskhostw
+Process ID: 3572
+Memory Usage (MB): 16.34375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: TextInputHost
+Process ID: 4048
+Memory Usage (MB): 7.921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: uhssvc
+Process ID: 6844
+Memory Usage (MB): 5.81640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: VBoxService
+Process ID: 1640
+Memory Usage (MB): 5.9609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: VBoxTray
+Process ID: 6148
+Memory Usage (MB): 9.9453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: wininit
+Process ID: 540
+Memory Usage (MB): 5.83984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: winlogon
+Process ID: 636
+Memory Usage (MB): 9.01171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: wlms
+Process ID: 2528
+Memory Usage (MB): 3.06640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: WmiPrvSE
+Process ID: 1396
+Memory Usage (MB): 9.2578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: WmiPrvSE
+Process ID: 6112
+Memory Usage (MB): 8.80859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: 010Editor
+Process ID: 8496
+Memory Usage (MB): 3.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ApplicationFrameHost
+Process ID: 7680
+Memory Usage (MB): 7.65234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: audiodg
+Process ID: 8432
+Memory Usage (MB): 11.58984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 196
+Memory Usage (MB): 21.24609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 1988
+Memory Usage (MB): 23.22265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 2988
+Memory Usage (MB): 8.5703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3148
+Memory Usage (MB): 82.14453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3180
+Memory Usage (MB): 14.34375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3268
+Memory Usage (MB): 23.84375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3428
+Memory Usage (MB): 141.27734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3468
+Memory Usage (MB): 16.21875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3488
+Memory Usage (MB): 20.09375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 3532
+Memory Usage (MB): 22.14453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4220
+Memory Usage (MB): 40.79296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4544
+Memory Usage (MB): 42.37109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 4960
+Memory Usage (MB): 86.859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5448
+Memory Usage (MB): 18.69140625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5460
+Memory Usage (MB): 64.140625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 5592
+Memory Usage (MB): 113.48046875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6048
+Memory Usage (MB): 31.20703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6080
+Memory Usage (MB): 13.22265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6156
+Memory Usage (MB): 16
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6468
+Memory Usage (MB): 16.74609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6568
+Memory Usage (MB): 17.1015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6812
+Memory Usage (MB): 81.2265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6856
+Memory Usage (MB): 23.8359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 6880
+Memory Usage (MB): 202.1015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7068
+Memory Usage (MB): 20.46875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7488
+Memory Usage (MB): 13.3671875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7780
+Memory Usage (MB): 36.10546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 7792
+Memory Usage (MB): 19.48828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8776
+Memory Usage (MB): 17.55078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8840
+Memory Usage (MB): 32.44921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8904
+Memory Usage (MB): 14.328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8952
+Memory Usage (MB): 14.3125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8968
+Memory Usage (MB): 22.296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 8976
+Memory Usage (MB): 13.1640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: chrome
+Process ID: 9072
+Memory Usage (MB): 19
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: cmd
+Process ID: 6860
+Memory Usage (MB): 3.28515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 456
+Memory Usage (MB): 0.86328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 8444
+Memory Usage (MB): 18.4765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: csrss
+Process ID: 464
+Memory Usage (MB): 4.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: csrss
+Process ID: 548
+Memory Usage (MB): 4.890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ctfmon
+Process ID: 3744
+Memory Usage (MB): 17.49609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dllhost
+Process ID: 6544
+Memory Usage (MB): 11.66015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dwm
+Process ID: 400
+Memory Usage (MB): 65.171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: explorer
+Process ID: 4072
+Memory Usage (MB): 88.33203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: fontdrvhost
+Process ID: 824
+Memory Usage (MB): 2.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: fontdrvhost
+Process ID: 832
+Memory Usage (MB): 6.953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: GoogleCrashHandler
+Process ID: 3724
+Memory Usage (MB): 0.15234375
+Loaded DLLs: C:\Program Files (x86)\Google\Update\1.3.36.242\GoogleCrashHandler.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\USER32.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\gdi32full.dll C:\Windows\System32\msvcp_win.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\ADVAPI32.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\sechost.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\ole32.dll C:\Windows\System32\combase.dll C:\Windows\System32\SHELL32.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\SYSTEM32\NETAPI32.dll C:\Windows\SYSTEM32\USERENV.dll C:\Windows\SYSTEM32\VERSION.dll C:\Windows\SYSTEM32\NETUTILS.DLL C:\Windows\SYSTEM32\WKSCLI.DLL C:\Windows\SYSTEM32\windows.storage.dll C:\Windows\SYSTEM32\Wldp.dll C:\Windows\System32\SHCORE.dll C:\Windows\SYSTEM32\DSREG.DLL C:\Windows\System32\OLEAUT32.dll C:\Windows\SYSTEM32\msvcp110_win.dll C:\Windows\SYSTEM32\cryptsp.dll C:\Windows\System32\CRYPT32.dll C:\Windows\SYSTEM32\profapi.dll C:\Windows\SYSTEM32\cscapi.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\SYSTEM32\dbghelp.dll C:\Windows\SYSTEM32\dbgcore.DLL C:\Windows\System32\bcryptPrimitives.dll
+Injection Technique: False
+
+--------------------------
+Process Name: GoogleCrashHandler64
+Process ID: 3812
+Memory Usage (MB): 0.11328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Idle
+Process ID: 0
+Memory Usage (MB): 0.0078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: lsass
+Process ID: 692
+Memory Usage (MB): 14.8125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Memory Compression
+Process ID: 1804
+Memory Usage (MB): 94.046875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: MoUsoCoreWorker
+Process ID: 4196
+Memory Usage (MB): 13.328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 1456
+Memory Usage (MB): 16.5859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 2192
+Memory Usage (MB): 21.18359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 3940
+Memory Usage (MB): 1.765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 6000
+Memory Usage (MB): 99.8203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 6044
+Memory Usage (MB): 7.546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 7912
+Memory Usage (MB): 5.05859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 7984
+Memory Usage (MB): 56.12890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 8016
+Memory Usage (MB): 7.203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 8188
+Memory Usage (MB): 6.984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: MsMpEng
+Process ID: 6480
+Memory Usage (MB): 142.0625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: NisSrv
+Process ID: 556
+Memory Usage (MB): 9.5546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 2140
+Memory Usage (MB): 13.34765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 6528
+Memory Usage (MB): 8.64453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 8504
+Memory Usage (MB): 17.4375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: OneDrive
+Process ID: 6224
+Memory Usage (MB): 12.625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: powershell
+Process ID: 7764
+Memory Usage (MB): 61.57421875
+Loaded DLLs: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\OLEAUT32.dll C:\Windows\System32\msvcp_win.dll C:\Windows\SYSTEM32\ATL.DLL C:\Windows\System32\USER32.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\combase.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\gdi32full.dll C:\Windows\System32\ADVAPI32.dll C:\Windows\System32\sechost.dll C:\Windows\System32\OLE32.dll C:\Windows\SYSTEM32\mscoree.dll C:\Windows\System32\IMM32.DLL C:\Windows\SYSTEM32\kernel.appcore.dll C:\Windows\System32\bcryptPrimitives.dll C:\Windows\system32\uxtheme.dll C:\Windows\System32\clbcatq.dll C:\Windows\system32\windows.storage.dll C:\Windows\system32\Wldp.dll C:\Windows\System32\SHCORE.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\system32\PROPSYS.dll C:\Windows\System32\shell32.dll C:\Windows\System32\LINKINFO.dll C:\Windows\System32\CFGMGR32.dll C:\Windows\system32\profapi.dll C:\Windows\System32\ntshrui.dll C:\Windows\System32\SspiCli.dll C:\Windows\System32\srvcli.dll C:\Windows\SYSTEM32\cscapi.dll C:\Windows\SYSTEM32\policymanager.dll C:\Windows\system32\msvcp110_win.dll C:\Windows\System32\bcrypt.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll C:\Windows\SYSTEM32\VERSION.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll C:\Windows\SYSTEM32\VCRUNTIME140_CLR0400.dll C:\Windows\SYSTEM32\ucrtbase_clr0400.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\a403a0b75e95c07da2caa7f780446a62\mscorlib.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System\920e3d1d70447c3c10e69e6df0766568\System.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\45a9a2a2deda365165595326f2f13be6\System.Core.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pb378ec07#\8f71fecf3629f0e75cd4709cbc9b82fe\Microsoft.PowerShell.ConsoleHost.ni.dll C:\Windows\SYSTEM32\CRYPTSP.dll C:\Windows\system32\rsaenh.dll C:\Windows\SYSTEM32\CRYPTBASE.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Manaa57fc8cc#\be67edb7bc076e2b7ee9f65254f925a6\System.Management.Automation.ni.dll C:\Windows\System32\psapi.dll C:\Windows\System32\wintrust.dll C:\Windows\System32\CRYPT32.dll C:\Windows\SYSTEM32\MSASN1.dll C:\Windows\SYSTEM32\amsi.dll C:\Windows\SYSTEM32\USERENV.dll C:\Windows\SYSTEM32\gpapi.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\bf1f4d743828bbf720baf57f6a37ce02\System.Configuration.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\2062ed810929ec0e33254c02b0c61bb4\System.Xml.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data\3da56a474ce100ea2538c514ba35d0cc\System.Data.ni.dll C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll C:\Windows\System32\WS2_32.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Management\96012833bebd5f21714fc508603cda97\System.Management.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Dired13b18a9#\767e999045a62f3cde3ae79cf78dd4c4\System.DirectoryServices.ni.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P6f792626#\6829f5eaeb4bad5fdabeaf59f4df3318\Microsoft.PowerShell.Security.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Transactions\e866c0216a4ad45c5b16d8bd70bd92c7\System.Transactions.ni.dll C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Numerics\d06877b5a0df441a8dc4c7b8d95b5d41\System.Numerics.ni.dll C:\Windows\SYSTEM32\secur32.dll C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23050.5-0\X86\MpOav.dll C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23050.5-0\X86\MPCLIENT.DLL C:\Windows\SYSTEM32\urlmon.dll C:\Windows\SYSTEM32\netutils.dll C:\Windows\SYSTEM32\iertutil.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.CSharp\d68989a4b7d85ed434306506194834aa\Microsoft.CSharp.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Confe64a9051#\48ee4ec9441351bbe4d9095c96b8ea01\System.Configuration.Install.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pae3498d9#\4db5145f971c0be7f303c5b19bfe8e9f\Microsoft.PowerShell.Commands.Management.ni.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll C:\Windows\SYSTEM32\iphlpapi.dll C:\Windows\SYSTEM32\DNSAPI.dll C:\Windows\System32\NSI.dll C:\Windows\SYSTEM32\dhcpcsvc6.DLL C:\Windows\SYSTEM32\dhcpcsvc.DLL C:\Windows\SYSTEM32\WINNSI.DLL C:\Windows\System32\MSISIP.DLL C:\Windows\System32\wshext.dll C:\Windows\System32\AppxSip.dll C:\Windows\SYSTEM32\OpcServices.DLL C:\Windows\System32\WindowsPowerShell\v1.0\pwrshsip.dll
+Injection Technique: False
+
+--------------------------
+Process Name: Registry
+Process ID: 100
+Memory Usage (MB): 32.8515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 4204
+Memory Usage (MB): 5.85546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 4616
+Memory Usage (MB): 21.02734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 6060
+Memory Usage (MB): 15.51953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 7632
+Memory Usage (MB): 15.7890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchApp
+Process ID: 4400
+Memory Usage (MB): 37.21875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchIndexer
+Process ID: 4512
+Memory Usage (MB): 24.9375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchProtocolHost
+Process ID: 3552
+Memory Usage (MB): 12.38671875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchProtocolHost
+Process ID: 5228
+Memory Usage (MB): 8.26171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SecurityHealthService
+Process ID: 452
+Memory Usage (MB): 12.18359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SecurityHealthSystray
+Process ID: 1992
+Memory Usage (MB): 8.92578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: services
+Process ID: 684
+Memory Usage (MB): 6.796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SgrmBroker
+Process ID: 3076
+Memory Usage (MB): 6.96484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ShellExperienceHost
+Process ID: 4132
+Memory Usage (MB): 2.2265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: sihost
+Process ID: 3456
+Memory Usage (MB): 11.015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: smss
+Process ID: 368
+Memory Usage (MB): 0.84375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: spoolsv
+Process ID: 2084
+Memory Usage (MB): 10.30859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: StartMenuExperienceHost
+Process ID: 3156
+Memory Usage (MB): 32.8125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 484
+Memory Usage (MB): 9.62109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 816
+Memory Usage (MB): 12.9453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 844
+Memory Usage (MB): 9.515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 928
+Memory Usage (MB): 72.16796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 936
+Memory Usage (MB): 13.17578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1044
+Memory Usage (MB): 5.70703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1076
+Memory Usage (MB): 11.62890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1080
+Memory Usage (MB): 17.33984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1144
+Memory Usage (MB): 7.796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1152
+Memory Usage (MB): 54.0625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1296
+Memory Usage (MB): 8.88671875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1420
+Memory Usage (MB): 16.0703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1636
+Memory Usage (MB): 14.44921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1712
+Memory Usage (MB): 9.8828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1872
+Memory Usage (MB): 9.65234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1960
+Memory Usage (MB): 12.12890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2160
+Memory Usage (MB): 12.40625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2360
+Memory Usage (MB): 6.265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2404
+Memory Usage (MB): 13.75
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2424
+Memory Usage (MB): 6.9765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 3320
+Memory Usage (MB): 21.1171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 3472
+Memory Usage (MB): 22.47265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5280
+Memory Usage (MB): 2.4921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5288
+Memory Usage (MB): 10.33984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5684
+Memory Usage (MB): 6.4296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: System
+Process ID: 4
+Memory Usage (MB): 0.1328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SystemSettings
+Process ID: 7464
+Memory Usage (MB): 1.390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: taskhostw
+Process ID: 3572
+Memory Usage (MB): 16.69921875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: TextInputHost
+Process ID: 4048
+Memory Usage (MB): 8.31640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: uhssvc
+Process ID: 6844
+Memory Usage (MB): 5.8125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: VBoxService
+Process ID: 1640
+Memory Usage (MB): 5.80078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: VBoxTray
+Process ID: 6148
+Memory Usage (MB): 9.96484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: wininit
+Process ID: 540
+Memory Usage (MB): 5.83984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: winlogon
+Process ID: 636
+Memory Usage (MB): 9.00390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: wlms
+Process ID: 2528
+Memory Usage (MB): 3.0625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: WmiPrvSE
+Process ID: 6112
+Memory Usage (MB): 8.85546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: 010Editor
+Process ID: 8496
+Memory Usage (MB): 3.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ApplicationFrameHost
+Process ID: 7680
+Memory Usage (MB): 7.89453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: audiodg
+Process ID: 8432
+Memory Usage (MB): 11.6328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: backgroundTaskHost
+Process ID: 3976
+Memory Usage (MB): 14.22265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: backgroundTaskHost
+Process ID: 5480
+Memory Usage (MB): 10.37890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: cmd
+Process ID: 6860
+Memory Usage (MB): 3.28515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 4988
+Memory Usage (MB): 98.421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 5040
+Memory Usage (MB): 75.08984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 5196
+Memory Usage (MB): 52.55078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 5236
+Memory Usage (MB): 41.1796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 5500
+Memory Usage (MB): 70.12109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 6340
+Memory Usage (MB): 173.3671875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 6520
+Memory Usage (MB): 71.484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 8520
+Memory Usage (MB): 26.2890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Code
+Process ID: 8836
+Memory Usage (MB): 124.31640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: CodeSetup-stable-4cb974a7aed77a74c7813bdccd99ee0d04901215
+Process ID: 6656
+Memory Usage (MB): 11.30859375
+Loaded DLLs: C:\Users\windows\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-4cb974a7aed77a74c7813bdccd99ee0d04901215.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\user32.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\gdi32full.dll C:\Windows\system32\version.dll C:\Windows\System32\msvcp_win.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\oleaut32.dll C:\Windows\System32\combase.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\advapi32.dll C:\Windows\System32\sechost.dll C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll C:\Windows\system32\netapi32.dll C:\Windows\system32\NETUTILS.DLL C:\Windows\System32\IMM32.DLL C:\Windows\System32\shell32.dll C:\Windows\system32\uxtheme.dll C:\Windows\System32\MSCTF.dll C:\Windows\system32\apphelp.dll
+Injection Technique: False
+
+--------------------------
+Process Name: CodeSetup-stable-4cb974a7aed77a74c7813bdccd99ee0d04901215.tmp
+Process ID: 2908
+Memory Usage (MB): 27.87890625
+Loaded DLLs: C:\Users\windows\AppData\Local\Temp\is-70GVN.tmp\CodeSetup-stable-4cb974a7aed77a74c7813bdccd99ee0d04901215.tmp C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\comdlg32.dll C:\Windows\System32\msvcrt.dll C:\Windows\system32\mpr.dll C:\Windows\System32\combase.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\shcore.dll C:\Windows\System32\USER32.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\gdi32full.dll C:\Windows\System32\msvcp_win.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\System32\SHELL32.dll C:\Windows\System32\oleaut32.dll C:\Windows\System32\advapi32.dll C:\Windows\System32\sechost.dll C:\Windows\System32\ole32.dll C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\COMCTL32.dll C:\Windows\system32\version.dll C:\Windows\system32\netapi32.dll C:\Windows\system32\NETUTILS.DLL C:\Windows\System32\IMM32.DLL C:\Windows\System32\Msctf.dll C:\Windows\system32\uxtheme.dll C:\Windows\SYSTEM32\kernel.appcore.dll C:\Windows\System32\bcryptPrimitives.dll C:\Windows\SYSTEM32\wtsapi32.dll C:\Windows\SYSTEM32\WINSTA.dll C:\Windows\SYSTEM32\textinputframework.dll C:\Windows\SYSTEM32\CoreMessaging.dll C:\Windows\SYSTEM32\CoreUIComponents.dll C:\Windows\System32\WS2_32.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\SYSTEM32\wintypes.dll C:\Windows\SYSTEM32\mscms.dll C:\Windows\SYSTEM32\USERENV.dll C:\Windows\SYSTEM32\ColorAdapterClient.dll C:\Windows\SYSTEM32\windows.storage.dll C:\Windows\SYSTEM32\Wldp.dll C:\Windows\SYSTEM32\profapi.dll C:\Windows\system32\shfolder.dll C:\Windows\SYSTEM32\TextShaping.dll C:\Windows\System32\clbcatq.dll C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll C:\Windows\system32\MSFTEDIT.DLL C:\Windows\System32\Windows.Globalization.dll C:\Windows\System32\Bcp47Langs.dll C:\Windows\System32\bcp47mrm.dll C:\Windows\SYSTEM32\globinputhost.dll C:\Windows\SYSTEM32\SspiCli.dll C:\Windows\SYSTEM32\DWMAPI.DLL C:\Windows\system32\explorerframe.dll C:\Windows\system32\sfc.dll C:\Windows\SYSTEM32\sfc_os.DLL C:\Windows\System32\SETUPAPI.dll C:\Windows\System32\cfgmgr32.dll C:\Windows\System32\bcrypt.dll
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 456
+Memory Usage (MB): 0.86328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 6348
+Memory Usage (MB): 10.5
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 6628
+Memory Usage (MB): 10.48828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: conhost
+Process ID: 9072
+Memory Usage (MB): 18.1015625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: cpptools
+Process ID: 5384
+Memory Usage (MB): 83.18359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: cpptools
+Process ID: 8364
+Memory Usage (MB): 7.9296875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: cpptools-srv
+Process ID: 5756
+Memory Usage (MB): 137.51171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: csrss
+Process ID: 464
+Memory Usage (MB): 4.37109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: csrss
+Process ID: 548
+Memory Usage (MB): 5.08984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ctfmon
+Process ID: 3744
+Memory Usage (MB): 17.5703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dllhost
+Process ID: 6544
+Memory Usage (MB): 12.9453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: dwm
+Process ID: 400
+Memory Usage (MB): 65.83203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: explorer
+Process ID: 4072
+Memory Usage (MB): 89.34375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: fontdrvhost
+Process ID: 824
+Memory Usage (MB): 2.3515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: fontdrvhost
+Process ID: 832
+Memory Usage (MB): 8.32421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: GoogleCrashHandler
+Process ID: 3724
+Memory Usage (MB): 0.14453125
+Loaded DLLs: C:\Program Files (x86)\Google\Update\1.3.36.242\GoogleCrashHandler.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\USER32.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\gdi32full.dll C:\Windows\System32\msvcp_win.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\ADVAPI32.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\sechost.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\ole32.dll C:\Windows\System32\combase.dll C:\Windows\System32\SHELL32.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\SYSTEM32\NETAPI32.dll C:\Windows\SYSTEM32\USERENV.dll C:\Windows\SYSTEM32\VERSION.dll C:\Windows\SYSTEM32\NETUTILS.DLL C:\Windows\SYSTEM32\WKSCLI.DLL C:\Windows\SYSTEM32\windows.storage.dll C:\Windows\SYSTEM32\Wldp.dll C:\Windows\System32\SHCORE.dll C:\Windows\SYSTEM32\DSREG.DLL C:\Windows\System32\OLEAUT32.dll C:\Windows\SYSTEM32\msvcp110_win.dll C:\Windows\SYSTEM32\cryptsp.dll C:\Windows\System32\CRYPT32.dll C:\Windows\SYSTEM32\profapi.dll C:\Windows\SYSTEM32\cscapi.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\SYSTEM32\dbghelp.dll C:\Windows\SYSTEM32\dbgcore.DLL C:\Windows\System32\bcryptPrimitives.dll
+Injection Technique: False
+
+--------------------------
+Process Name: GoogleCrashHandler64
+Process ID: 3812
+Memory Usage (MB): 0.11328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: HxTsr
+Process ID: 4900
+Memory Usage (MB): 29.2421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Idle
+Process ID: 0
+Memory Usage (MB): 0.0078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: lsass
+Process ID: 692
+Memory Usage (MB): 15.02734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: Memory Compression
+Process ID: 1804
+Memory Usage (MB): 33.0546875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: MoUsoCoreWorker
+Process ID: 4196
+Memory Usage (MB): 13.34375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 1456
+Memory Usage (MB): 16.5859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 2192
+Memory Usage (MB): 21.1640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 3940
+Memory Usage (MB): 1.765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 6000
+Memory Usage (MB): 99.8359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 6044
+Memory Usage (MB): 7.55078125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 7912
+Memory Usage (MB): 5.05859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 7984
+Memory Usage (MB): 56.1640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 8016
+Memory Usage (MB): 7.203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: msedge
+Process ID: 8188
+Memory Usage (MB): 6.984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: MsMpEng
+Process ID: 6480
+Memory Usage (MB): 187.80859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: NisSrv
+Process ID: 556
+Memory Usage (MB): 9.70703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 2140
+Memory Usage (MB): 13.34765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: notepad
+Process ID: 8504
+Memory Usage (MB): 17.42578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: OneDrive
+Process ID: 6224
+Memory Usage (MB): 12.7890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: powershell
+Process ID: 8812
+Memory Usage (MB): 58.359375
+Loaded DLLs: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe C:\Windows\SYSTEM32\ntdll.dll C:\Windows\System32\KERNEL32.DLL C:\Windows\System32\KERNELBASE.dll C:\Windows\System32\msvcrt.dll C:\Windows\System32\OLEAUT32.dll C:\Windows\System32\msvcp_win.dll C:\Windows\System32\ucrtbase.dll C:\Windows\System32\combase.dll C:\Windows\System32\RPCRT4.dll C:\Windows\System32\ADVAPI32.dll C:\Windows\SYSTEM32\ATL.DLL C:\Windows\System32\USER32.dll C:\Windows\System32\sechost.dll C:\Windows\System32\win32u.dll C:\Windows\System32\GDI32.dll C:\Windows\System32\OLE32.dll C:\Windows\System32\gdi32full.dll C:\Windows\SYSTEM32\mscoree.dll C:\Windows\System32\IMM32.DLL C:\Windows\SYSTEM32\kernel.appcore.dll C:\Windows\System32\bcryptPrimitives.dll C:\Windows\system32\uxtheme.dll C:\Windows\System32\clbcatq.dll C:\Windows\system32\windows.storage.dll C:\Windows\system32\Wldp.dll C:\Windows\System32\SHCORE.dll C:\Windows\System32\SHLWAPI.dll C:\Windows\system32\PROPSYS.dll C:\Windows\System32\shell32.dll C:\Windows\System32\LINKINFO.dll C:\Windows\System32\CFGMGR32.dll C:\Windows\system32\profapi.dll C:\Windows\System32\ntshrui.dll C:\Windows\System32\SspiCli.dll C:\Windows\System32\srvcli.dll C:\Windows\SYSTEM32\cscapi.dll C:\Windows\SYSTEM32\policymanager.dll C:\Windows\system32\msvcp110_win.dll C:\Windows\System32\bcrypt.dll C:\Windows\SYSTEM32\ntmarta.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll C:\Windows\SYSTEM32\VERSION.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll C:\Windows\SYSTEM32\VCRUNTIME140_CLR0400.dll C:\Windows\SYSTEM32\ucrtbase_clr0400.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\a403a0b75e95c07da2caa7f780446a62\mscorlib.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System\920e3d1d70447c3c10e69e6df0766568\System.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\45a9a2a2deda365165595326f2f13be6\System.Core.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pb378ec07#\8f71fecf3629f0e75cd4709cbc9b82fe\Microsoft.PowerShell.ConsoleHost.ni.dll C:\Windows\SYSTEM32\CRYPTSP.dll C:\Windows\system32\rsaenh.dll C:\Windows\SYSTEM32\CRYPTBASE.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Manaa57fc8cc#\be67edb7bc076e2b7ee9f65254f925a6\System.Management.Automation.ni.dll C:\Windows\System32\psapi.dll C:\Windows\SYSTEM32\amsi.dll C:\Windows\SYSTEM32\USERENV.dll C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23050.5-0\X86\MpOav.dll C:\Windows\System32\wintrust.dll C:\Windows\System32\CRYPT32.dll C:\Windows\SYSTEM32\MSASN1.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Management\96012833bebd5f21714fc508603cda97\System.Management.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Dired13b18a9#\767e999045a62f3cde3ae79cf78dd4c4\System.DirectoryServices.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\2062ed810929ec0e33254c02b0c61bb4\System.Xml.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Numerics\d06877b5a0df441a8dc4c7b8d95b5d41\System.Numerics.ni.dll C:\Windows\SYSTEM32\gpapi.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data\3da56a474ce100ea2538c514ba35d0cc\System.Data.ni.dll C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll C:\Windows\System32\WS2_32.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\bf1f4d743828bbf720baf57f6a37ce02\System.Configuration.ni.dll C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P6f792626#\6829f5eaeb4bad5fdabeaf59f4df3318\Microsoft.PowerShell.Security.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Transactions\e866c0216a4ad45c5b16d8bd70bd92c7\System.Transactions.ni.dll C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll C:\Windows\SYSTEM32\secur32.dll C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23050.5-0\X86\MPCLIENT.DLL C:\Windows\SYSTEM32\urlmon.dll C:\Windows\SYSTEM32\netutils.dll C:\Windows\SYSTEM32\iertutil.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.CSharp\d68989a4b7d85ed434306506194834aa\Microsoft.CSharp.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Confe64a9051#\48ee4ec9441351bbe4d9095c96b8ea01\System.Configuration.Install.ni.dll C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pae3498d9#\4db5145f971c0be7f303c5b19bfe8e9f\Microsoft.PowerShell.Commands.Management.ni.dll C:\Windows\System32\MSISIP.DLL C:\Windows\System32\wshext.dll C:\Windows\System32\AppxSip.dll C:\Windows\SYSTEM32\OpcServices.DLL C:\Windows\System32\WindowsPowerShell\v1.0\pwrshsip.dll
+Injection Technique: False
+
+--------------------------
+Process Name: Registry
+Process ID: 100
+Memory Usage (MB): 33.81640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 4204
+Memory Usage (MB): 6.07421875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 4616
+Memory Usage (MB): 26.8515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 6060
+Memory Usage (MB): 18.92578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 7632
+Memory Usage (MB): 15.7890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 8244
+Memory Usage (MB): 8.11328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 8636
+Memory Usage (MB): 11.01171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: RuntimeBroker
+Process ID: 8764
+Memory Usage (MB): 27.75390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchApp
+Process ID: 4400
+Memory Usage (MB): 57.83203125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchFilterHost
+Process ID: 5940
+Memory Usage (MB): 7.77734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchIndexer
+Process ID: 4512
+Memory Usage (MB): 29.5390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchProtocolHost
+Process ID: 3552
+Memory Usage (MB): 10.109375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SearchProtocolHost
+Process ID: 5228
+Memory Usage (MB): 7.6953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SecurityHealthService
+Process ID: 452
+Memory Usage (MB): 12.17578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SecurityHealthSystray
+Process ID: 1992
+Memory Usage (MB): 8.92578125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: services
+Process ID: 684
+Memory Usage (MB): 6.91796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SgrmBroker
+Process ID: 3076
+Memory Usage (MB): 6.90234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: ShellExperienceHost
+Process ID: 4132
+Memory Usage (MB): 2.2265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: sihost
+Process ID: 3456
+Memory Usage (MB): 12.5234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: smartscreen
+Process ID: 1532
+Memory Usage (MB): 23.33984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: smss
+Process ID: 368
+Memory Usage (MB): 0.84375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: spoolsv
+Process ID: 2084
+Memory Usage (MB): 10.30859375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: sppsvc
+Process ID: 7492
+Memory Usage (MB): 12.09765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: StartMenuExperienceHost
+Process ID: 3156
+Memory Usage (MB): 37.77734375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 484
+Memory Usage (MB): 9.609375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 816
+Memory Usage (MB): 15.3828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 844
+Memory Usage (MB): 9.51171875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 928
+Memory Usage (MB): 75.0703125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 936
+Memory Usage (MB): 13.44140625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1044
+Memory Usage (MB): 5.71875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1076
+Memory Usage (MB): 15.03515625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1080
+Memory Usage (MB): 17.62890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1144
+Memory Usage (MB): 7.796875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1152
+Memory Usage (MB): 56.72265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1296
+Memory Usage (MB): 11.390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1420
+Memory Usage (MB): 17.0625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1636
+Memory Usage (MB): 15.21875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1712
+Memory Usage (MB): 9.89453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1872
+Memory Usage (MB): 9.7265625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 1960
+Memory Usage (MB): 12.15234375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2160
+Memory Usage (MB): 12.6640625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2360
+Memory Usage (MB): 6.28125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2404
+Memory Usage (MB): 14.37890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 2424
+Memory Usage (MB): 6.98828125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 3320
+Memory Usage (MB): 21.15625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 3472
+Memory Usage (MB): 23.78125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5280
+Memory Usage (MB): 2.4765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5288
+Memory Usage (MB): 10.390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 5684
+Memory Usage (MB): 6.44140625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: svchost
+Process ID: 8844
+Memory Usage (MB): 9.14453125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: System
+Process ID: 4
+Memory Usage (MB): 0.1328125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: SystemSettings
+Process ID: 7464
+Memory Usage (MB): 1.390625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: taskhostw
+Process ID: 3572
+Memory Usage (MB): 16.84765625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: TextInputHost
+Process ID: 4048
+Memory Usage (MB): 8.37890625
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: uhssvc
+Process ID: 6844
+Memory Usage (MB): 5.8125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: VBoxService
+Process ID: 1640
+Memory Usage (MB): 5.96875
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: VBoxTray
+Process ID: 6148
+Memory Usage (MB): 9.96484375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: wininit
+Process ID: 540
+Memory Usage (MB): 5.83984375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: winlogon
+Process ID: 636
+Memory Usage (MB): 9.01953125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: wlms
+Process ID: 2528
+Memory Usage (MB): 3.28125
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
+Process Name: WmiPrvSE
+Process ID: 6112
+Memory Usage (MB): 8.8359375
+Loaded DLLs: 
+Injection Technique: False
+
+--------------------------
